@@ -1,0 +1,1 @@
+Name says it all. The entire screen of the device turns green (color #00FF00).
